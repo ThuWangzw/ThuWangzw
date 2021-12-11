@@ -15,13 +15,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8 edited files from 37 commits over last 11 days</small>
+                <small>estimation from 12 edited files from 53 commits over last 26 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.2856449460017" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="426.2856449460017" y="0" width="33.714355053998304" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -33,12 +34,24 @@
                                 Vue
                             </div>
                             <small>
-                                <div>5.77 kB</div>
-                                <div>100%</div>
+                                <div>7.64 kB</div>
+                                <div>92.67%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>604 bytes</div>
+                                <div>7.33%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
