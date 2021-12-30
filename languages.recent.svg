@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="379.00860015706877" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="379.00860015706877" y="0" width="50.81302383067475" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.82162398774346" y="0" width="22.862899591878776" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="452.68452357962224" y="0" width="7.315476420377737" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.98611312253604" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="378.98611312253604" y="0" width="50.80762732319575" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.79374044573177" y="0" width="22.891560061147317" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="452.6853005068791" y="0" width="7.314699493120926" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>511 kB</div>
+                                <div>512 kB</div>
                                 <div>82.39%</div>
                             </small>
                         </div>
@@ -48,8 +48,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>30.8 kB</div>
-                                <div>4.97%</div>
+                                <div>30.9 kB</div>
+                                <div>4.98%</div>
                             </small>
                         </div>
                     </section>
