@@ -3,6 +3,7 @@
         <style/>
     </defs>
     <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -21,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.50059312938293" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="373.50059312938293" y="0" width="49.134870358863445" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="422.6354634882464" y="0" width="30.027937604402876" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="452.6634010926493" y="0" width="7.33659890735077" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.5500304271258" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="373.5500304271258" y="0" width="49.14137395018345" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="422.69140437730925" y="0" width="29.97102562819505" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="452.66243000550435" y="0" width="7.337569994495676" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +38,7 @@
                             </div>
                             <small>
                                 <div>503 kB</div>
-                                <div>81.2%</div>
+                                <div>81.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +49,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>40.4 kB</div>
-                                <div>6.53%</div>
+                                <div>40.3 kB</div>
+                                <div>6.52%</div>
                             </small>
                         </div>
                     </section>
@@ -75,7 +76,7 @@
                             </div>
                             <small>
                                 <div>9.88 kB</div>
-                                <div>1.59%</div>
+                                <div>1.6%</div>
                             </small>
                         </div>
                     </section>
