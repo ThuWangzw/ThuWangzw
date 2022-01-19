@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.080688500331" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="372.080688500331" y="0" width="48.95154276516479" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.0322312654958" y="0" width="31.591897399950675" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="452.62412866544645" y="0" width="7.375871334553527" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.1440916858571" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="372.1440916858571" y="0" width="48.94271419089211" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.0868058767492" y="0" width="31.53606592761011" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="452.62287180435936" y="0" width="7.377128195640638" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>498 kB</div>
-                                <div>80.89%</div>
+                                <div>80.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,8 +49,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>42.3 kB</div>
-                                <div>6.87%</div>
+                                <div>42.2 kB</div>
+                                <div>6.86%</div>
                             </small>
                         </div>
                     </section>
