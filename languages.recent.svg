@@ -22,23 +22,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.50006140578307" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="178.50006140578307" y="0" width="171.5576600302935" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="350.0577214360766" y="0" width="108.49856037553047" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.55628181160705" y="0" width="1.4437181883929424" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.91101988663397" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="177.91101988663397" y="0" width="172.57112564057255" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="350.4821455272065" y="0" width="108.07970965242569" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.5618551796322" y="0" width="1.438144820367828" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Vue
                             </div>
                             <small>
                                 <div>28.4 kB</div>
-                                <div>38.8%</div>
+                                <div>38.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>17.2 kB</div>
-                                <div>23.59%</div>
+                                <div>23.5%</div>
                             </small>
                         </div>
                     </section>
@@ -58,13 +58,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                Python
                             </div>
                             <small>
-                                <div>27.3 kB</div>
-                                <div>37.3%</div>
+                                <div>27.6 kB</div>
+                                <div>37.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
