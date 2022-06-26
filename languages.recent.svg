@@ -22,9 +22,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="316.6571525431143" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="316.6571525431143" y="0" width="142.23111665190336" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.88826919501764" y="0" width="1.1117308049823387" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="316.9235822202759" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="316.9235822202759" y="0" width="141.9634333260346" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.88701554631047" y="0" width="1.1129844536895117" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>62.9 kB</div>
-                                <div>68.84%</div>
+                                <div>68.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,8 +62,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>28.2 kB</div>
-                                <div>30.92%</div>
+                                <div>28.1 kB</div>
+                                <div>30.86%</div>
                             </small>
                         </div>
                     </section>
