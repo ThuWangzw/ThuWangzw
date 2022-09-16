@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 95.9kb of code in 44 edited files across 86 commits over last 89 days</small>
+                <small>estimation from 97.7kb of code in 46 edited files across 88 commits over last 89 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.27548834681414" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="337.27548834681414" y="0" width="92.01764762300586" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="429.29313596982" y="0" width="15.8608011765082" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.1539371463282" y="0" width="14.846062853671791" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.4563637493012" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="332.4563637493012" y="0" width="89.44841294490341" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="421.9047766942046" y="0" width="22.687123423815144" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.59190011801974" y="0" width="15.408099881980247" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 Go
                             </div>
                             <small>
-                                <div>45.8 kB</div>
-                                <div>73.32%</div>
+                                <div>46.5 kB</div>
+                                <div>72.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                C++
                             </div>
                             <small>
-                                <div>2.16 kB</div>
-                                <div>3.45%</div>
+                                <div>3.18 kB</div>
+                                <div>4.93%</div>
                             </small>
                         </div>
                     </section>
@@ -64,19 +64,19 @@
                             </div>
                             <small>
                                 <div>12.5 kB</div>
-                                <div>20%</div>
+                                <div>19.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Python
                             </div>
                             <small>
-                                <div>2.02 kB</div>
-                                <div>3.23%</div>
+                                <div>2.16 kB</div>
+                                <div>3.35%</div>
                             </small>
                         </div>
                     </section>
